@@ -29,6 +29,13 @@ To install Rayder, ensure you have Go (1.16 or higher) installed on your system.
 ```sh
 go install github.com/devanshbatham/rayder@v0.0.2
 ```
+OR Use This Installation Process to Access Tool From Any Terminal.
+```sh
+https://github.com/devanshbatham/rayder.git
+cd rayder; go build
+sudo mv rayder /usr/local/bin
+```
+Now You Can Access rayder From Any Terminal
 
 ## Usage
 
